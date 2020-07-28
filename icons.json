@@ -1,6 +1,6 @@
 {
   "robots":{
-    "magni": "/robots/magni1/magni1.png",
+    "magni1": "/robots/magni1/magni1.png",
     "magni2": "/robots/magni2/magni2.png"
   }
 }
